@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alphabetizer", "Alphabetizer.vcxproj", "{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Debug|x64.ActiveCfg = Debug|x64
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Debug|x64.Build.0 = Debug|x64
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Debug|x86.ActiveCfg = Debug|Win32
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Debug|x86.Build.0 = Debug|Win32
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Release|x64.ActiveCfg = Release|x64
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Release|x64.Build.0 = Release|x64
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Release|x86.ActiveCfg = Release|Win32
+		{4974841A-D2B2-4418-98B5-ADDCD0BF4A02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C19D382-F691-4BF5-9C09-36ACF6FB3812}
+	EndGlobalSection
+EndGlobal
