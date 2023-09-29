@@ -1,5 +1,3 @@
-// this program alphabetizes user-entered letters
-
 #include <iostream>
 #include <iomanip>
 #include <string>
